@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NameGenerator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NameGenerator\r\n
+comment1.params=PrimerApellido\ Nombre\ ApellidoMadre\ CiudadNacimiento
+comment1.target=void\ generateStarsWarsName(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Metotodo\ que\ genera\ un\ nombre\ para\ una\ pelicula,\ a\ lo\ George\ Lucas.\r\n
+numComments=2
